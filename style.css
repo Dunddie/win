@@ -1,0 +1,28 @@
+*{background-color: rgb(4, 97, 56);}
+#div1{
+        }
+img{height: 390px;width: 300px;
+    padding: 30px;
+    border-color: white; border-width: 20px; border-style: solid;
+    margin-left: 600px; margin-top: 50px;
+    }
+    .me{
+        color: whitesmoke;
+        font-family: "Playwrite IN", serif;
+    }
+    .me2{color: blue;background-color: whitesmoke;
+        margin: 0px;
+        text-align: center;
+        height: 37px;width: 165px;
+        border-color: rgb(128, 109, 6);border-width: 10px;border-style: solid;
+        padding: 0px;
+        margin-left: 0px;
+        font-family: Arial, Helvetica, sans-serif
+
+    }
+#div2{
+        margin: 0px 0px 0px 500px;
+    }
+    #div3{
+        
+        }
